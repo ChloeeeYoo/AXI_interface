@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/51250746/222420293-fcbdc097-64be-48c0-98eb-904bc23a4fd2.png)
 
 
-##AXI memory-mapped 
+## AXI memory-mapped 
 ### Read
 ![image](https://user-images.githubusercontent.com/51250746/222420962-50287bfc-f3c1-4248-a149-1823fe741e91.png)
 
